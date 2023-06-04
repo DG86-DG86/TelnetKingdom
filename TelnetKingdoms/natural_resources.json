@@ -1,0 +1,65 @@
+[
+   {
+      "Name":"Crops",
+      "Description":"Crops are plant product that is grown and harvested for food, fiber, oil, and ornimentation.",
+      "Rarity":0.7,
+      "MinGrowthRate":2,
+      "MaxGrowthRate":8,
+      "MinAccess":0.1,
+      "MaxAccess":0.2
+   },
+   {
+      "Name":"Fish",
+      "Description":"Fish, such as trout, salmon, or cod, is a common raw food material in medieval times. It can be obtained from rivers, lakes, or the sea and provides a valuable source of protein.",
+      "Rarity":0.6,
+      "MinGrowthRate":1,
+      "MaxGrowthRate":6,
+      "MinAccess":0.05,
+      "MaxAccess":0.15
+   },
+   {
+      "Name":"Honey",
+      "Description":"Honey is a natural sweetener produced by bees from flower nectar. It is a valuable raw food material used in cooking, baking, and as a condiment in medieval cuisine.",
+      "Rarity":0.8,
+      "MinGrowthRate":3,
+      "MaxGrowthRate":10,
+      "MinAccess":0.15,
+      "MaxAccess":0.3
+   },
+   {
+      "Name":"Livestock",
+      "Description":"Livestock are domesticated animals raised in an agricultural setting to provide labor and produce diversified products for consumption such as meat, eggs, milk, fur, leather, and wool.",
+      "Rarity":0.5,
+      "MinGrowthRate":1,
+      "MaxGrowthRate":5,
+      "MinAccess":0.05,
+      "MaxAccess":0.1
+   },
+   {
+      "Name":"Stone",
+      "Description":"A durable and sturdy material commonly used in medieval construction. Stone buildings offer excellent structural integrity and can withstand the test of time.",
+      "Rarity":0.9,
+      "MinGrowthRate":4,
+      "MaxGrowthRate":12,
+      "MinAccess":0.2,
+      "MaxAccess":0.4
+   },
+   {
+      "Name":"Wood",
+      "Description":"A versatile and abundant material widely utilized in medieval architecture. Wood is used for constructing various types of buildings, from simple huts to elaborate timber-framed structures.",
+      "Rarity":0.6,
+      "MinGrowthRate":2,
+      "MaxGrowthRate":8,
+      "MinAccess":0.1,
+      "MaxAccess":0.2
+   },
+   {
+      "Name":"Clay",
+      "Description":"Clay has been used by humans for thousands of years for a variety of purposes, including making pottery, bricks, and other ceramics.",
+      "Rarity":0.7,
+      "MinGrowthRate":3,
+      "MaxGrowthRate":10,
+      "MinAccess":0.15,
+      "MaxAccess":0.3
+   },
+]

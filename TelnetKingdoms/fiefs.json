@@ -1,0 +1,474 @@
+[
+   {
+      "name":"Normandy",
+      "description":"A strategic region in northern France, encompassing a significant portion of the English Channel coastline.",
+      "population":500000,
+      "nationality":"French",
+      "tenantInChief":"William the Conqueror",
+      "title":"Duke of Normandy"
+   },
+   {
+      "name":"Champagne",
+      "description":"Known for its prosperous vineyards and trade routes, located in northeastern France.",
+      "population":300000,
+      "nationality":"French",
+      "tenantInChief":"Theobald IV, Count of Champagne",
+      "title":"Count of Champagne"
+   },
+   {
+      "name":"Aquitaine",
+      "description":"A vast territory in southwestern France, renowned for its wine production and rich cultural heritage.",
+      "population":700000,
+      "nationality":"French",
+      "tenantInChief":"Henry II of England",
+      "title":"Duke of Aquitaine"
+   },
+   {
+      "name":"Anjou",
+      "description":"Situated in western France, known for its strong fortifications and historical significance.",
+      "population":250000,
+      "nationality":"French",
+      "tenantInChief":"Geoffrey Plantagenet",
+      "title":"Count of Anjou"
+   },
+   {
+      "name":"Burgundy",
+      "description":"A powerful region in east-central France, recognized for its prosperous cities and influential nobility.",
+      "population":600000,
+      "nationality":"French",
+      "tenantInChief":"Robert II, Duke of Burgundy",
+      "title":"Duke of Burgundy"
+   },
+   {
+      "name":"Brittany",
+      "description":"Located in the northwest, characterized by its distinct Celtic culture and rugged coastline.",
+      "population":400000,
+      "nationality":"French",
+      "tenantInChief":"Conan II, Duke of Brittany",
+      "title":"Duke of Brittany"
+   },
+   {
+      "name":"Flanders",
+      "description":"A prosperous region in northern France, renowned for its textile industry and bustling trade.",
+      "population":450000,
+      "nationality":"French",
+      "tenantInChief":"Baldwin V, Count of Flanders",
+      "title":"Count of Flanders"
+   },
+   {
+      "name":"Gascony",
+      "description":"An important territory in southwestern France, known for its wine production and strategic value.",
+      "population":350000,
+      "nationality":"French",
+      "tenantInChief":"Edward I of England",
+      "title":"Duke of Gascony"
+   },
+   {
+      "name":"Guyenne",
+      "description":"Encompassing the lands of Aquitaine and Gascony, it held significant economic and political influence.",
+      "population":800000,
+      "nationality":"French",
+      "tenantInChief":"Edward III of England",
+      "title":"Duke of Guyenne"
+   },
+   {
+      "name":"Maine",
+      "description":"Located in northwestern France, known for its picturesque landscapes and medieval castles.",
+      "population":200000,
+      "nationality":"French",
+      "tenantInChief":"Hugh III, Count of Maine",
+      "title":"Count of Maine"
+   },
+   {
+      "name":"Ponthieu",
+      "description":"Situated in northern France, known for its fertile plains and strategic coastal position.",
+      "population":150000,
+      "nationality":"French",
+      "tenantInChief":"Enguerrand III, Lord of Coucy",
+      "title":"Lord of Ponthieu"
+   },
+   {
+      "name":"Artois",
+      "description":"A region in northern France, recognized for its rich agricultural resources and fortified towns.",
+      "population":180000,
+      "nationality":"French",
+      "tenantInChief":"Robert III, Count of Artois",
+      "title":"Count of Artois"
+   },
+   {
+      "name":"Boulogne",
+      "description":"A coastal county in northern France, known for its important port and historical significance.",
+      "population":100000,
+      "nationality":"French",
+      "tenantInChief":"Eustace IV, Count of Boulogne",
+      "title":"Count of Boulogne"
+   },
+   {
+      "name":"Hainaut",
+      "description":"Located in northeastern France, recognized for its prosperous cities and strategic location.",
+      "population":300000,
+      "nationality":"French",
+      "tenantInChief":"William II, Count of Hainaut",
+      "title":"Count of Hainaut"
+   },
+   {
+      "name":"Saint-Pol",
+      "description":"Situated in northern France, known for its historical importance and feudal nobility.",
+      "population":120000,
+      "nationality":"French",
+      "tenantInChief":"Waleran III, Count of Luxembourg",
+      "title":"Count of Saint-Pol"
+   },
+   {
+      "name":"Toulouse",
+      "description":"A prominent county in southern France, celebrated for its vibrant culture and intellectual pursuits.",
+      "population":400000,
+      "nationality":"French",
+      "tenantInChief":"Raymond VI, Count of Toulouse",
+      "title":"Count of Toulouse"
+   },
+   {
+      "name":"Lorraine",
+      "description":"A region in northeastern France, characterized by its diverse landscapes and cultural heritage.",
+      "population":350000,
+      "nationality":"French",
+      "tenantInChief":"Frederick II, Duke of Lorraine",
+      "title":"Duke of Lorraine"
+   },
+   {
+      "name":"Bourbon",
+      "description":"Located in central France, known for its strategic position and historical importance.",
+      "population":250000,
+      "nationality":"French",
+      "tenantInChief":"Louis I, Duke of Bourbon",
+      "title":"Duke of Bourbon"
+   },
+   {
+      "name":"Foix",
+      "description":"Situated in southwestern France, renowned for its mountainous terrain and fortified castles.",
+      "population":100000,
+      "nationality":"French",
+      "tenantInChief":"Gaston III, Count of Foix",
+      "title":"Count of Foix"
+   },
+   {
+      "name":"Armagnac",
+      "description":"A region in southwestern France, celebrated for its wine production and vibrant cultural traditions.",
+      "population":150000,
+      "nationality":"French",
+      "tenantInChief":"John IV, Count of Armagnac",
+      "title":"Count of Armagnac"
+   },
+   {
+      "name":"Bedfordshire",
+      "description":"Shire in eastern England.",
+      "population":70000,
+      "nationality":"English",
+      "tenantInChief":"John, Duke of Bedford",
+      "title":"Duke of Bedford"
+   },
+   {
+      "name":"Berkshire",
+      "description":"Shire in southern England.",
+      "population":75000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Howard, 3rd Duke of Norfolk",
+      "title":"Duke of Norfolk"
+   },
+   {
+      "name":"Buckinghamshire",
+      "description":"Shire in southeastern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Cambridgeshire",
+      "description":"Shire in eastern England.",
+      "population":60000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Cheshire",
+      "description":"Shire in northwestern England.",
+      "population":45000,
+      "nationality":"English",
+      "tenantInChief":"Thomas de Mowbray, 1st Duke of Norfolk",
+      "title":"Duke of Norfolk"
+   },
+   {
+      "name":"Cornwall",
+      "description":"Shire in southwestern England.",
+      "population":100000,
+      "nationality":"English",
+      "tenantInChief":"Edward, the Black Prince",
+      "title":"Prince of Cornwall"
+   },
+   {
+      "name":"Cumberland",
+      "description":"Shire in northwestern England.",
+      "population":55000,
+      "nationality":"English",
+      "tenantInChief":"Henry Percy, 1st Earl of Northumberland",
+      "title":"Earl of Northumberland"
+   },
+   {
+      "name":"Derbyshire",
+      "description":"Shire in central England.",
+      "population":70000,
+      "nationality":"English",
+      "tenantInChief":"William Cavendish, 1st Duke of Devonshire",
+      "title":"Duke of Devonshire"
+   },
+   {
+      "name":"Devonshire",
+      "description":"Shire in southwestern England.",
+      "population":120000,
+      "nationality":"English",
+      "tenantInChief":"William Courtenay, 1st Earl of Devon",
+      "title":"Earl of Devon"
+   },
+   {
+      "name":"Dorset",
+      "description":"Shire in southern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Durham",
+      "description":"Shire in northeastern England.",
+      "population":65000,
+      "nationality":"English",
+      "tenantInChief":"Richard Neville, 16th Earl of Warwick",
+      "title":"Earl of Warwick"
+   },
+   {
+      "name":"Essex",
+      "description":"Shire in southeastern England.",
+      "population":100000,
+      "nationality":"English",
+      "tenantInChief":"William Bourchier, 1st Earl of Essex",
+      "title":"Earl of Essex"
+   },
+   {
+      "name":"Gloucestershire",
+      "description":"Shire in southwestern England.",
+      "population":90000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Hampshire",
+      "description":"Shire in southern England.",
+      "population":120000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Herefordshire",
+      "description":"Shire in western England.",
+      "population":60000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Hertfordshire",
+      "description":"Shire in southeastern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Huntingdonshire",
+      "description":"Shire in eastern England.",
+      "population":40000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Kent",
+      "description":"Shire in southeastern England.",
+      "population":150000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Lancashire",
+      "description":"Shire in northwestern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"Thomas de Mowbray, 1st Duke of Norfolk",
+      "title":"Duke of Norfolk"
+   },
+   {
+      "name":"Leicestershire",
+      "description":"Shire in central England.",
+      "population":60000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Lincolnshire",
+      "description":"Shire in eastern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Middlesex",
+      "description":"Shire in southeastern England.",
+      "population":90000,
+      "nationality":"English",
+      "tenantInChief":"William Bourchier, 1st Earl of Essex",
+      "title":"Earl of Essex"
+   },
+   {
+      "name":"Norfolk",
+      "description":"Shire in eastern England.",
+      "population":90000,
+      "nationality":"English",
+      "tenantInChief":"John Howard, 1st Duke of Norfolk",
+      "title":"Duke of Norfolk"
+   },
+   {
+      "name":"Northamptonshire",
+      "description":"Shire in central England.",
+      "population":70000,
+      "nationality":"English",
+      "tenantInChief":"William Compton, 1st Earl of Northampton",
+      "title":"Earl of Northampton"
+   },
+   {
+      "name":"Northumberland",
+      "description":"Shire in northeastern England.",
+      "population":70000,
+      "nationality":"English",
+      "tenantInChief":"Henry Percy, 1st Earl of Northumberland",
+      "title":"Earl of Northumberland"
+   },
+   {
+      "name":"Nottinghamshire",
+      "description":"Shire in central England.",
+      "population":70000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Oxfordshire",
+      "description":"Shire in southern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"John de Vere, 12th Earl of Oxford",
+      "title":"Earl of Oxford"
+   },
+   {
+      "name":"Rutland",
+      "description":"Shire in central England.",
+      "population":20000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Shropshire",
+      "description":"Shire in western England.",
+      "population":50000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Somersetshire",
+      "description":"Shire in southwestern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"William Courtenay, 1st Earl of Devon",
+      "title":"Earl of Devon"
+   },
+   {
+      "name":"Staffordshire",
+      "description":"Shire in central England.",
+      "population":60000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Suffolk",
+      "description":"Shire in eastern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Surrey",
+      "description":"Shire in southeastern England.",
+      "population":100000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Sussex",
+      "description":"Shire in southeastern England.",
+      "population":80000,
+      "nationality":"English",
+      "tenantInChief":"Thomas Grey, 1st Marquess of Dorset",
+      "title":"Marquess of Dorset"
+   },
+   {
+      "name":"Warwickshire",
+      "description":"Shire in central England.",
+      "population":60000,
+      "nationality":"English",
+      "tenantInChief":"Richard Neville, 16th Earl of Warwick",
+      "title":"Earl of Warwick"
+   },
+   {
+      "name":"Westmorland",
+      "description":"Shire in northwestern England.",
+      "population":30000,
+      "nationality":"English",
+      "tenantInChief":"Henry Percy, 1st Earl of Northumberland",
+      "title":"Earl of Northumberland"
+   },
+   {
+      "name":"Wiltshire",
+      "description":"Shire in southern England.",
+      "population":70000,
+      "nationality":"English",
+      "tenantInChief":"Humphrey Stafford, 1st Duke of Buckingham",
+      "title":"Duke of Buckingham"
+   },
+   {
+      "name":"Worcestershire",
+      "description":"Shire in western England.",
+      "population":60000,
+      "nationality":"English",
+      "tenantInChief":"John Tiptoft, 1st Earl of Worcester",
+      "title":"Earl of Worcester"
+   },
+   {
+      "name":"Yorkshire",
+      "description":"Shire in northern England.",
+      "population":150000,
+      "nationality":"English",
+      "tenantInChief":"Richard Plantagenet, 3rd Duke of York",
+      "title":"Duke of York"
+   }
+]
